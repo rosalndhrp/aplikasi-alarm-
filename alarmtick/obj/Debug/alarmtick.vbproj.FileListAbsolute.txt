@@ -1,0 +1,32 @@
+c:\users\rosalinda\documents\visual studio 2015\Projects\alarmtick\alarmtick\bin\Debug\alarmtick.exe.config
+c:\users\rosalinda\documents\visual studio 2015\Projects\alarmtick\alarmtick\bin\Debug\alarmtick.exe
+c:\users\rosalinda\documents\visual studio 2015\Projects\alarmtick\alarmtick\bin\Debug\alarmtick.pdb
+c:\users\rosalinda\documents\visual studio 2015\Projects\alarmtick\alarmtick\bin\Debug\alarmtick.xml
+c:\users\rosalinda\documents\visual studio 2015\Projects\alarmtick\alarmtick\bin\Debug\Interop.WMPLib.dll
+c:\users\rosalinda\documents\visual studio 2015\Projects\alarmtick\alarmtick\bin\Debug\AxInterop.WMPLib.dll
+c:\users\rosalinda\documents\visual studio 2015\Projects\alarmtick\alarmtick\obj\Debug\alarmtick.vbprojResolveAssemblyReference.cache
+c:\users\rosalinda\documents\visual studio 2015\Projects\alarmtick\alarmtick\obj\Debug\Interop.WMPLib.dll
+c:\users\rosalinda\documents\visual studio 2015\Projects\alarmtick\alarmtick\obj\Debug\AxInterop.WMPLib.dll
+c:\users\rosalinda\documents\visual studio 2015\Projects\alarmtick\alarmtick\obj\Debug\alarmtick.vbproj.ResolveComReference.cache
+c:\users\rosalinda\documents\visual studio 2015\Projects\alarmtick\alarmtick\obj\Debug\alarmtick.Form1.resources
+c:\users\rosalinda\documents\visual studio 2015\Projects\alarmtick\alarmtick\obj\Debug\alarmtick.Resources.resources
+c:\users\rosalinda\documents\visual studio 2015\Projects\alarmtick\alarmtick\obj\Debug\alarmtick.vbproj.GenerateResource.Cache
+c:\users\rosalinda\documents\visual studio 2015\Projects\alarmtick\alarmtick\obj\Debug\alarmtick.exe
+c:\users\rosalinda\documents\visual studio 2015\Projects\alarmtick\alarmtick\obj\Debug\alarmtick.xml
+c:\users\rosalinda\documents\visual studio 2015\Projects\alarmtick\alarmtick\obj\Debug\alarmtick.pdb
+D:\portofolio\program\alarmtick\alarmtick\bin\Debug\alarmtick.exe.config
+D:\portofolio\program\alarmtick\alarmtick\obj\Debug\Interop.WMPLib.dll
+D:\portofolio\program\alarmtick\alarmtick\obj\Debug\AxInterop.WMPLib.dll
+D:\portofolio\program\alarmtick\alarmtick\obj\Debug\alarmtick.vbproj.ResolveComReference.cache
+D:\portofolio\program\alarmtick\alarmtick\obj\Debug\alarmtick.exe
+D:\portofolio\program\alarmtick\alarmtick\obj\Debug\alarmtick.xml
+D:\portofolio\program\alarmtick\alarmtick\obj\Debug\alarmtick.pdb
+D:\portofolio\program\alarmtick\alarmtick\bin\Debug\alarmtick.exe
+D:\portofolio\program\alarmtick\alarmtick\bin\Debug\alarmtick.pdb
+D:\portofolio\program\alarmtick\alarmtick\bin\Debug\alarmtick.xml
+D:\portofolio\program\alarmtick\alarmtick\bin\Debug\Interop.WMPLib.dll
+D:\portofolio\program\alarmtick\alarmtick\bin\Debug\AxInterop.WMPLib.dll
+D:\portofolio\program\alarmtick\alarmtick\obj\Debug\alarmtick.vbprojResolveAssemblyReference.cache
+D:\portofolio\program\alarmtick\alarmtick\obj\Debug\alarmtick.Form1.resources
+D:\portofolio\program\alarmtick\alarmtick\obj\Debug\alarmtick.Resources.resources
+D:\portofolio\program\alarmtick\alarmtick\obj\Debug\alarmtick.vbproj.GenerateResource.Cache
